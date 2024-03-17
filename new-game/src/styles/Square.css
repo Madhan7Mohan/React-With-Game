@@ -1,0 +1,33 @@
+.square {
+    font-size: 24px;
+    float: left;
+    width: 34px;
+    height: 34px;
+    margin-right: -1px;
+    margin-top: -1px;
+    padding: 0;
+    text-align: center;
+    line-height: 34px;
+    border: 1px solid #ddd;
+    background-color: #fff;
+    cursor: pointer;
+  }
+  
+  .square:focus {
+    outline: none;
+  }
+  
+  .square:hover {
+    background-color: #f0f0f0;
+  }
+  .square {
+    font-size: 36px; /* Adjust the font size to make the square larger */
+    width: 60px; /* Adjust the width of the square */
+    height: 60px; /* Adjust the height of the square */
+    margin: 5px; /* Add margin for spacing between squares */
+    line-height: 60px;
+    border: 1px solid #ddd;
+    background-color: #fff;
+    cursor: pointer;
+  }
+  

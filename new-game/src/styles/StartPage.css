@@ -1,0 +1,34 @@
+.start-page {
+    text-align: center;
+  }
+  
+  .start-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  .start-form label {
+    margin-bottom: 10px;
+  }
+  
+  .start-form input {
+    padding: 5px;
+    margin-bottom: 15px;
+  }
+  
+  .start-form button {
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: green; 
+    color: white;  
+    border: none;
+    border-radius: 5px;
+  }
+  
+  .start-form button:hover {
+    background-color: darkgreen; 
+  }
+  
